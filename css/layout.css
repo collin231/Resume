@@ -122,7 +122,6 @@ ul#nav li a {
    text-transform: uppercase;
    letter-spacing: 1px;
    color: #fff;
-   text-align: center;
 
 }
 #resume h1 span {
@@ -142,6 +141,7 @@ ul#nav li a {
 #resume h3 {
    font: 25px 'opensans-bold', sans-serif;
    color: #fff;
+   text-align: center;
 }
 
 #resume .header-col { padding-top: 9px; }
